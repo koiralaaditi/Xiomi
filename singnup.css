@@ -1,0 +1,129 @@
+.page{
+    background-color: rgb(233, 237, 237);
+}
+.page{
+    background-color: rgb(233, 237, 237);
+}
+.container{
+    width: 700px;
+    height: 450px;
+    border: 1px solid rgb(173, 170, 170);
+    margin-left:200px;
+    margin-right: 200px;
+    border-radius: 1%;
+    background-color: whitesmoke;
+}
+.header{
+    color: #0277f3;
+}
+.firstname {
+    position: absolute;
+    top: 20%;
+    left: 26%;
+}
+.firstname input {
+    padding: 10px 20px; 
+    font-size: 17px; 
+    border-radius: 1px;
+    width: 250px;
+}
+
+.lastname {
+    position: absolute;
+    top: 20%;
+    left: 53%;
+}
+.lastname input {
+    padding: 10px 20px; 
+    font-size: 17px; 
+    border-radius: 1px;
+    width: 250px;
+}
+
+.email {
+    position: absolute;
+    top: 33%;
+    left: 26%;
+}
+.email input {
+    padding: 10px 20px; 
+    font-size: 17px; 
+    border-radius: 1px;
+    width: 585px;
+}
+.password {
+    position: absolute;
+    top: 47%;
+    left: 26%;
+}
+.password input {
+    padding: 10px 20px; 
+    font-size: 17px; 
+    border-radius: 1px;
+    width: 585px;
+}
+
+.phone {
+    position: absolute;
+    top: 59%;
+    left: 26%;
+}
+.phone input {
+    padding: 10px 20px; 
+    font-size: 17px; 
+    border-radius: 1px;
+    width: 585px;
+}
+.dob{
+    position: absolute;
+    top: 69%;
+    left: 54%; 
+}
+.dob input {
+    padding: 10px 20px; 
+    font-size: 17px; 
+    border-radius: 3px;
+    width: 242px;
+}
+
+.country {
+    position: absolute;
+    top: 69%;
+    left: 26%;
+}
+.country select {
+    padding: 10px 20px; 
+    font-size: 17px; 
+    border-radius: 5px;
+    width: 250px;
+}
+
+.signup {
+    position: absolute;
+    top: 80%;
+    left: 40%;
+}
+.signup button {
+    width: 200px;
+    background-color: orangered; 
+    border: none; 
+    color: white; 
+    padding: 10px 20px; 
+    font-size: 20px; 
+    border-radius: 5px; 
+    margin-left: -1px;
+}
+.signup button:hover {
+    background-color:orange; 
+}
+
+.login {
+    position: absolute;
+    top: 90%;
+    left: 45%;
+    margin-left: -5%;
+}
+.login a {
+    color: orange;
+}
+
